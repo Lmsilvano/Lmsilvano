@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: generate snake.gif
-        uses: Platane/snk/gif-only@v2
+        uses: Platane/snk@v2.0.0-rc.2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.gif
