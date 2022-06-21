@@ -38,6 +38,10 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Lmsilvano/Lmsilvano/output/snake.gif" alt="Snake animation" />
+<div align="center">
+<img align="center" src="https://raw.githubusercontent.com/Lmsilvano/Lmsilvano/output/snake.gif" alt="Snake animation" />
+<div>
+
+
 
 ###
