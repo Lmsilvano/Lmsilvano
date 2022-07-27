@@ -1,11 +1,11 @@
-<h2 align="left">Hi 👋! My name is Leandro de Melo and I'm a Full Stack Web Developer from Santa Catarina</h2>
+<h2 align="left">Hi 👋! My name is Leandro de Melo and I'm a Full Stack Web Developer from Santa Catarina, Brazil.</h2>
 
 ###
 
 <div align"left>
 <ul>
   
-  <li>✅ available to work</li>
+  <li>✅ open to work</li>
   <li>✅ available to meet new people</li>
   <li>✅ available to face new challenges</li>
   <li>🥰 passionate about technology, philosophy, science and literature</li> 
