@@ -15,14 +15,14 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: generate snake.gif
+        uses: Platane/snk@master
         with:
           github_user_name: Lmsilvano
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: dist/snake.gif
 
-      - uses: crazy-max/ghaction-github-pages@v3.0.0
+      - name: push snake.gif to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.0.0
         with:
           target_branch: output
           build_dir: dist
