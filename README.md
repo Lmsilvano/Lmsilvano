@@ -6,7 +6,7 @@
 <ul>
   
   <li>✅ open to work.</li>
-  <li>✅ available to meet new peopl.e</li>
+  <li>✅ available to meet new people.</li>
   <li>✅ available to face new challenges.</li>
   <li>🥰 passionate about technology, philosophy, science and literature.</li> 
 </ul>  
